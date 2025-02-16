@@ -4,7 +4,19 @@
 <h1>Gym Coach App : Votre Coach de Musculation Personnalisé</h1>
 
 <div class="intro">
-    <p>Bienvenue sur <span class="highlight">Gym Coach App</span>, l'application web ultime qui transforme votre expérience en salle de sport ! Fini les doutes face aux machines, aux exercices complexes, et aux programmes de musculation coûteux et génériques. Prenez le contrôle de votre entraînement et de votre évolution physique avec notre application gratuite, simple d'utilisation, et entièrement personnalisée.</p>
+    <p>Gym Coach App
+
+Gym Coach App est une application web conçue pour accompagner les sportifs dans leur progression, en leur offrant des outils personnalisés pour structurer et optimiser leurs entraînements. Plus qu’un simple outil, elle répond aux besoins fondamentaux de tout athlète cherchant à atteindre ses objectifs avec méthode et efficacité.
+
+Un site dédié à la création de programmes sportifs répond à une nécessité clé : l’organisation et l’individualisation des entraînements, des éléments cruciaux pour progresser durablement. Pour beaucoup de sportifs, créer des séances adaptées à leur niveau, à leurs objectifs et à leur disponibilité peut s’avérer complexe. Gym Coach App simplifie ce processus en fournissant des programmes ciblés, évolutifs et adaptés aux besoins spécifiques de chaque utilisateur.
+
+L’application va au-delà d’un simple générateur : elle devient un véritable guide. L’inscription permet de créer un profil unique, essentiel pour suivre l’évolution des performances. Les calculateurs d’IMC et de macronutriments assurent une prise en charge complète, en alignant les objectifs physiques avec une alimentation optimisée. Enfin, le créateur de programmes, cœur de l’application, propose des séances personnalisées, adaptées aux objectifs (prise de masse, perte de poids, performance spécifique), tout en offrant des conseils pour éviter les erreurs fréquentes et favoriser une progression continue.
+
+En centralisant toutes ces fonctionnalités, Gym Coach App offre plus qu’un outil : elle devient un véritable partenaire de progression. Elle structure l’entraînement, favorise l’autonomie et transforme chaque séance en une étape vers la réussite.
+
+✨ Rejoignez Gym Coach App et créez vos programmes sportifs sur-mesure pour transformer chaque effort en succès !
+
+</p>
 </div>
 
 <h2>Objectifs de l'Application</h2>
